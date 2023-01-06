@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lorainne/static/css/main.a9aca8e8.css",
+    "main.js": "/lorainne/static/js/main.d6b5dba6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/lorainne/static/js/787.28cb0dcd.chunk.js",
+    "static/media/lorainne.png": "/lorainne/static/media/lorainne.9adc1ea5bfa225e3048a.png",
+    "static/media/react2.png": "/lorainne/static/media/react2.1f52ca253ce403eacf05.png",
+    "static/media/fotico.jpg": "/lorainne/static/media/fotico.14ded1a5063e40362177.jpg",
+    "static/media/css2.png": "/lorainne/static/media/css2.7654ce00c5ac2e76e015.png",
+    "static/media/html2.png": "/lorainne/static/media/html2.31497a13d5b51cea9b7d.png",
+    "index.html": "/lorainne/index.html",
+    "main.a9aca8e8.css.map": "/lorainne/static/css/main.a9aca8e8.css.map",
+    "main.d6b5dba6.js.map": "/lorainne/static/js/main.d6b5dba6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/lorainne/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9aca8e8.css",
+    "static/js/main.d6b5dba6.js"
+  ]
+}
